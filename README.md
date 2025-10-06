@@ -1,4 +1,5 @@
 # bladesdash-customization
+### By didsomeonesaydesu
 ## Tutorial on how to customize the style of Blades dashboard running on Proton/xbGuard
 
 If you've ever used a patched version of the Blades dash on an Xbox 360 stealth server, you may know one of the main downsides is the lack of a working themes setting.
